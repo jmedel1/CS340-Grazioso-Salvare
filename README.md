@@ -6,7 +6,7 @@ The project connects a MongoDB database to an interactive dashboard built with D
 ---
 
 ## Writing Maintainable and Adaptable Programs
-I keep my code organized and readable by separating responsibilities. The CRUD Python module is an example—it handles all the database operations in one place. This made the dashboard easier to build because I didn’t need to repeat database logic in multiple files. This module could also be reused in future projects that need MongoDB access.
+I keep my code organized and readable by separating responsibilities. The CRUD Python module is an example, it handles all the database operations in one place. This made the dashboard easier to build because I didn’t need to repeat database logic in multiple files. This module could also be reused in future projects that need MongoDB access.
 
 ---
 
