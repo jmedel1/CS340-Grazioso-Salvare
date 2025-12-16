@@ -1,4 +1,3 @@
-# CS340-Grazioso-Salvare
 # CS 340 – Grazioso Salvare Dashboard
 
 This repo contains my final dashboard code and CRUD Python module for Project Two.  
